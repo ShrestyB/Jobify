@@ -34,7 +34,5 @@ LAB:1 - User Registration and Login*
 - Focus on addressing bugs and improving error handling.
 - Test the application thoroughly to ensure smooth user experience.
 
-*LAB:10 - Additional Features or Enhancements*
-- Consider adding extra features like interview scheduling, interview preparation tips, or salary negotiation guidance.
-- Explore integrating with job portal APIs for more efficient data retrieval.
+
 
